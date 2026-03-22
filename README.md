@@ -3,8 +3,13 @@
 ![EV Density Map](images/tampa_ev_density_map.png)
 
 # EV Charging Station Density Analysis — Tampa, FL
-
 GIS + Python analysis of EV charging station density in Tampa, Florida using GeoPandas and QGIS.
+
+## Project Highlights
+- Performed spatial density analysis of EV charging infrastructure in Tampa, FL
+- Identified clustering patterns using Kernel Density Estimation (KDE)
+- Combined Python (GeoPandas) and QGIS for full GIS workflow
+- Produced publication-quality map output for analysis and visualization
 
 ## Overview
 This project analyzes the spatial distribution of EV charging stations in Florida, then focuses on Tampa to identify clustering patterns using kernel density analysis.
@@ -31,6 +36,13 @@ This project analyzes the spatial distribution of EV charging stations in Florid
 - Tampa-focused EV station layer
 - Kernel density raster
 - Final PDF map
-
+  
+## Skills Demonstrated
+- GIS Analysis (QGIS)
+- Spatial Data Processing (GeoPandas)
+- Data Cleaning & Transformation (Python)
+- Kernel Density Estimation (KDE)
+- Cartographic Design & Layout
+  
 ## Key Insight
 The analysis shows stronger EV charging station clustering in central Tampa urban corridors, with lower density toward outlying areas.
